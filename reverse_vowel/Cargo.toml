@@ -1,0 +1,5 @@
+[package]
+name = "reverse_vowel"
+version = "0.1.0"
+authors = ["Daniele Guarascio <guarascio.daniele@gmail.com>"]
+edition = "2021"
